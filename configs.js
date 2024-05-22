@@ -1,4 +1,4 @@
-const configs = {
+window.configs = {
 	// ========================================
 	// Authentication and channel - Required
 	// Before you start modifying these settings,
@@ -9,7 +9,6 @@ const configs = {
 		twitch_channel: "CHANNEL", // Replace CHANNEL with a Twitch channel name
 		twitch_username: "USERNAME", // Replace USERNAME with your Twitch username
 	},
-
 	// ========================================
 	// Bot Behavior Settings
 	// ========================================
